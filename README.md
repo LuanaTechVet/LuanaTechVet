@@ -12,7 +12,7 @@
 
 ###
 
-<h4 align="left">Gosto de resolver problemas, criar soluções úteis e trabalhar em equipe. Minhas experiências anteriores como veterinária me proporcionaram habilidades interpessoais valiosas, atenção aos detalhes, escuta ativa, comunicação adaptada e responsabilidade pessoal — que agora aplico no mundo da tecnologia.</h4>
+<h4 align="left">Gosto de resolver problemas, criar soluções úteis e trabalhar em equipe. Minhas experiências anteriores como veterinária me proporcionaram habilidades interpessoais valiosas, como a atenção aos detalhes, escuta ativa, comunicação adaptada e responsabilidade pessoal — que agora aplico no mundo da tecnologia.</h4>
 
 ###
 
