@@ -1,4 +1,4 @@
-<h1 align="left">Oiee 👋🏿 Sou Luana Silva!</h1>
+<h1 align="center">Oiee 👋🏿 Sou Luana Silva!</h1>
 
 ###
 
@@ -8,11 +8,11 @@
 
 ###
 
-<p align="left">Sou paulista, mas quase gaúcha 😄 🚇❤️🧉</p>
+<p align="center">Sou uma paulista quase gaúcha 😄 🚇❤️🧉</p>
 
 ###
 
-<h4 align="left">Gosto de resolver problemas, criar soluções úteis e trabalhar em equipe. Minhas experiências anteriores como veterinária me proporcionaram habilidades interpessoais valiosas, como a atenção aos detalhes, escuta ativa, comunicação adaptada e responsabilidade pessoal — que agora aplico no mundo da tecnologia.</h4>
+<h3 align="center">Gosto de resolver problemas, criar soluções úteis e trabalhar em equipe. Minhas experiências anteriores como veterinária me proporcionaram habilidades interpessoais valiosas, como a atenção aos detalhes, escuta ativa, comunicação adaptada e responsabilidade pessoal — que agora aplico no mundo da tecnologia.</h3>
 
 ###
 
@@ -73,9 +73,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LuanaTechVet&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=LuanaTechVet&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
-
-###
 </div>
 
 ###
