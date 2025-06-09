@@ -12,11 +12,17 @@
 
 ###
 
-<h3 align="center">Gosto de resolver problemas, criar soluções úteis e trabalhar em equipe. Minhas experiências anteriores como veterinária me proporcionaram habilidades interpessoais valiosas, como a atenção aos detalhes, escuta ativa, comunicação adaptada e responsabilidade pessoal — que agora aplico no mundo da tecnologia.</h3>
+<h3 align="center">Gosto de resolver problemas, criar soluções úteis e trabalhar em equipe. Minhas experiências anteriores como veterinária me proporcionaram habilidades interpessoais valiosas, atenção aos detalhes, escuta ativa, comunicação adaptada e responsabilidade pessoal — que agora aplico no mundo da tecnologia.</h3>
 
 ###
 
 <p align="left">✨ Atualmente, uma aluna da Generation Brasil<br><br>📚 Estudando tecnologias como: TypeScript, NestJS, MySQL, React, versionamento Git, desenvolvimento ágil e boas práticas de código<br><br>🎯 Goals: Uma oportunidade como Desenvolvedora Back-end Júnior, onde eu possa aprender, contribuir com times diversos e crescer profissionalmente.<br><br>🎲 Fun facts: <br>Sou veterinária 🩺; Morei quase 10 anos em Porto Alegre 🧉; Amo as animações da pixar, mas em especial o Wall-e 🌱; Sonho em visitar a Ásia 🌏; Gosto de jogar LOL, jogos de mundo aberto e simuladores... 🎮</p>
+
+###
+
+<div align="center">
+  <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExamVmOWl5dm1ucWdycm5laGFwc2E3NXpwdTZldWR3anZtM2U1bTNteiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/43yk2zK8MJ3uo/giphy.gif"  />
+</div>
 
 ###
 
@@ -67,6 +73,15 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
 </div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LuanaTechVet&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LuanaTechVet&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+###
 
 ###
 
