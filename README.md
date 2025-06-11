@@ -12,11 +12,7 @@
 
 ###
 
-<h3 align="center">Gosto de resolver problemas, criar soluções úteis e trabalhar em equipe. Minhas experiências anteriores como veterinária me proporcionaram habilidades interpessoais valiosas, atenção aos detalhes, escuta ativa, comunicação adaptada e responsabilidade pessoal — que agora aplico no mundo da tecnologia.</h3>
-
-###
-
-<p align="left">✨ Atualmente, uma aluna da Generation Brasil<br><br>📚 Estudando tecnologias como: TypeScript, NestJS, MySQL, React, versionamento Git, desenvolvimento ágil e boas práticas de código<br><br>🎯 Goals: Uma oportunidade como Desenvolvedora Back-end Júnior, onde eu possa aprender, contribuir com times diversos e crescer profissionalmente.<br><br>🎲 Fun facts: <br>Sou veterinária 🩺; Morei quase 10 anos em Porto Alegre 🧉; Amo as animações da pixar, mas em especial o Wall-e 🌱; Sonho em visitar a Ásia 🌏; Gosto de jogar LOL, jogos de mundo aberto e simuladores... 🎮</p>
+<p align="left">✨ Atualmente, uma aluna da Generation Brasil e do Programa Desenvolve do Grupo Boticário<br><br>📚 Estudando tecnologias como: TypeScript, Python, NestJS, MySQL, React, versionamento Git, desenvolvimento ágil e boas práticas de código<br><br>🎯 Goals: Uma oportunidade como Desenvolvedora Back-end Júnior, onde eu possa aprender, contribuir com times diversos e crescer profissionalmente.<br><br>🎲 Fun facts: <br>Sou veterinária 🩺; Morei quase 10 anos em Porto Alegre 🧉; Amo as animações da pixar, mas em especial o Wall-e 🌱; Sonho em visitar a Ásia 🌏; Gosto de jogar LOL, jogos de mundo aberto e simuladores... 🎮</p>
 
 ###
 
